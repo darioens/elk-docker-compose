@@ -1,12 +1,8 @@
-# poc-stendhal-elk
+# elk-docker-compose
 
 These are the steps to run the elastic stack:
 
-## Clone
-First of all clone the repository:
 
-```bash
-git clone https://musashi.lkmx.io/stendhal-marketing-platform/poc-stendhal-elk
 ```
 Change the name of the **.env.default** file in the root directory to **.env**
 You can specify your credentials in:
